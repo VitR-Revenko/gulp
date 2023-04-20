@@ -1,9 +1,14 @@
 {
   "dependencies": {
-    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-sass": "^5.1.0",
     "gulp-uglify-es": "^3.0.0",
     "sass": "^1.62.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.1",
+    "gulp": "^4.0.2",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-live-server": "^0.0.31"
   }
 }
